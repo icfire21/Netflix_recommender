@@ -8,19 +8,14 @@ Netflix is all about connecting people to the movies they love. To help customer
 Netflix provided a lot of anonymous rating data, and a prediction accuracy bar that is 10% better than what Cinematch can do on the same training data set. (Accuracy is a measurement of how closely predicted ratings of movies match subsequent actual ratings.)
 
 ## Sources: ##
-* https://www.netflixprize.com/rules.html
 * https://www.kaggle.com/netflix-inc/netflix-prize-data
 * Netflix blog: https://medium.com/netflix-techblog/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429
 * Research paper: http://courses.ischool.berkeley.edu/i290-dm/s11/SECURE/a1-koren.pdf
 
 ## Real world/Business Objectives and constraints ##
 ### Objectives: ###
-* Recommend movies or tv shows based on watch history of the user
+* Recommend top 10 movies or tv shows based on the watch history of the user and the type of genre user likes to watch
 * Comparing the performance of sigmoid and linear kernels
-
-### Constraints: ###
-* Some form of interpretability.
-* There is no low latency requirement as the recommended movies can be precomputed earlier.
 
 ## Getting Started ##
 Start by downloading the project and run "NetflixRecommendation.ipynb" file in ipython-notebook.
