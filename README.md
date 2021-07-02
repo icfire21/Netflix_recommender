@@ -12,8 +12,7 @@ Netflix provided a lot of anonymous rating data, and a prediction accuracy bar t
 * Netflix blog: https://medium.com/netflix-techblog/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429
 * Research paper: http://courses.ischool.berkeley.edu/i290-dm/s11/SECURE/a1-koren.pdf
 
-## Real world/Business Objectives and constraints ##
-### Objectives: ###
+## Objectives: ##
 * Recommend top 10 movies or tv shows based on the watch history of the user and the type of genre user likes to watch
 * Comparing the performance of sigmoid and linear kernels
 
