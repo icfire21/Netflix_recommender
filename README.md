@@ -8,7 +8,7 @@ Netflix is all about connecting people to the movies they love. To help customer
 Netflix provided a lot of anonymous rating data, and a prediction accuracy bar that is 10% better than what Cinematch can do on the same training data set. (Accuracy is a measurement of how closely predicted ratings of movies match subsequent actual ratings.)
 
 ## Sources: ##
-* https://www.kaggle.com/netflix-inc/netflix-prize-data
+* Dataset: https://www.kaggle.com/netflix-inc/netflix-prize-data
 * Netflix blog: https://medium.com/netflix-techblog/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429
 
 ## Objectives: ##
