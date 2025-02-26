@@ -15,27 +15,5 @@ Netflix provided a lot of anonymous rating data, and a prediction accuracy bar t
 * Recommend top 10 movies or tv shows based on the watch history of the user and the type of genre user likes to watch
 * Comparing the performance of sigmoid and linear kernels
 
-## Getting Started ##
-Start by downloading the project and run "NetflixRecommendation.ipynb" file in ipython-notebook.
-
-## Prerequisites ##
-You need to have installed following softwares and libraries in your machine before running this project.
-* Python 3
-* Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, scipy.
-
-## Installing ## 
-* Python 3: https://www.python.org/downloads/
-* Anaconda: https://www.anaconda.com/download/
-
-## Built With ## 
-* Jupyter notebook - Python Text Editor
-* sklearn - Machine learning library
-* seaborn, matplotlib.pyplot, - Visualization libraries
-* numpy, scipy- number python library
-* pandas - data handling library
-
-## Authors ##
-Amit Pote - Complete work
-
 ## Acknowledgments ##
 Kaggle
